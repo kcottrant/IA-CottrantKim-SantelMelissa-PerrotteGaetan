@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenericNode.cs" />
+    <Compile Include="Graph.cs" />
     <Compile Include="Interface.cs">
       <SubType>Form</SubType>
     </Compile>
