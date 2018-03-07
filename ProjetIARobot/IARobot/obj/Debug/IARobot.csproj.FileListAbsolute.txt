@@ -1,1 +1,10 @@
 H:\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\bin\Debug\IARobot.exe.config
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\bin\Debug\IARobot.exe.config
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\obj\Debug\IARobot.csprojResolveAssemblyReference.cache
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\obj\Debug\IARobot.Interface.resources
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\obj\Debug\IARobot.Properties.Resources.resources
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\obj\Debug\IARobot.csproj.GenerateResource.Cache
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\bin\Debug\IARobot.exe
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\bin\Debug\IARobot.pdb
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\obj\Debug\IARobot.exe
+H:\IA\IA-CottrantKim-SantelMelissa-PerrotteGaetan\ProjetIARobot\IARobot\obj\Debug\IARobot.pdb
